@@ -1,0 +1,43 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 01/12/2023, 09:44:11
+    Author     : alunos
+*/
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #FFFAFA;
+}
+
+
+.div-principal {
+    display : flex;
+    flex-direction: column;
+    width: 20%;
+    gap: 15px;
+    margin-left: 14%;
+    box-shadow: 10px 15px 8px 8px #888888;
+    
+}
+
+.boton {
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+ table {
+            border: 2px solid #000000;
+        }
+
+th, td {
+            border: 1px solid #000000;
+            padding: 8px;
+            text-align: left;
+        }
